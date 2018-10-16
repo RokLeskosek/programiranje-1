@@ -26,7 +26,7 @@ medved. Zvrhano zibelko sladkih hrušk mi je prinesel za en sam izdrt trn"."""
 # {'izdere', 'debel', 'oddide', 'začudeno'}
 ###############################################################################
 def find_words(s):
-    return 4
+    return "asd"
 
 ###############################################################################
 # 2) Write a function [find_prefix] which returns the set of all words in a
